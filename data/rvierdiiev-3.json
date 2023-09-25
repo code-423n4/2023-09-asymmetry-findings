@@ -1,0 +1,8 @@
+{
+  "contest": 286,
+  "handle": "rvierdiiev",
+  "risk": "2",
+  "title": "VotiumStrategy.withdrawTime doesn't expect that balance can be already unlocked",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2023-09-asymmetry-findings/issues/3"
+}
