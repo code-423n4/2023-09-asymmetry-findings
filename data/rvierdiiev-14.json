@@ -1,0 +1,8 @@
+{
+  "contest": 286,
+  "handle": "rvierdiiev",
+  "risk": "2",
+  "title": "Attacker can mint afEth tokens with different ratio",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2023-09-asymmetry-findings/issues/14"
+}
