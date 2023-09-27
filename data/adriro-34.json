@@ -1,0 +1,8 @@
+{
+  "contest": 286,
+  "handle": "adriro",
+  "risk": "3",
+  "title": "AfEth deposits could use price data from an invalid Chainlink response",
+  "issueId": 34,
+  "issueUrl": "https://github.com/code-423n4/2023-09-asymmetry-findings/issues/34"
+}
