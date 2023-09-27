@@ -1,0 +1,8 @@
+{
+  "contest": 286,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "VotiumStrategy withdrawal queue fails to consider available unlocked tokens causing different issues in the withdraw process",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2023-09-asymmetry-findings/issues/49"
+}
