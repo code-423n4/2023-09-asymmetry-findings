@@ -1,0 +1,8 @@
+{
+  "contest": 286,
+  "handle": "d3e4",
+  "risk": "2",
+  "title": "`VotiumStrategy.requestWithdraw()` does not account for immediately possible withdrawals",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2023-09-asymmetry-findings/issues/63"
+}
