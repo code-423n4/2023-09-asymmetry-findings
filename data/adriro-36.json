@@ -1,0 +1,8 @@
+{
+  "contest": 286,
+  "handle": "adriro",
+  "risk": "3",
+  "title": "Zero amount withdrawals of SafEth or Votium will brick the withdraw process",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2023-09-asymmetry-findings/issues/36"
+}
