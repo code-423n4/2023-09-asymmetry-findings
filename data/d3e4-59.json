@@ -1,0 +1,8 @@
+{
+  "contest": 286,
+  "handle": "d3e4",
+  "risk": "3",
+  "title": "Incorrect `AfEth.price()` calculation",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2023-09-asymmetry-findings/issues/59"
+}
