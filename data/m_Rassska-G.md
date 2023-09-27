@@ -14,6 +14,7 @@
 - **[[G-11] Use assembly to emit events](#g-11-use-assembly-to-emit-events)**
 - **[[G-12] Use constants instead of `type(uintX).max`](#g-12-use-constants-instead-of-typeuintxmax)**
 - **[[G-13] Use assembly for setting stare variables](#g-13-use-assembly-for-setting-stare-variables)**
+- **[[G-14] Unused named return values](#g-14-unused-named-return-values)**
 
 ## **[G-01] Cache the state variables into the memory**<a name="G-01"></a>
 
@@ -221,4 +222,12 @@ By using a constant instead of type(uintX).max, you can avoid these additional g
 
 - Could be optimize as an example [here](https://github.com/code-423n4/2023-09-asymmetry/blob/main/contracts/AfEth.sol#L72-L126):
 
+</br>
 
+## **[G-14] Unused named return values**<a name="G-14"></a>
+### ***Description:***
+- If the named return value has been declared, it should be use in order to get intrinsic gas save, otherwise - waste of the gas during deployment.
+  
+### ***Example of an occurance:***
+
+- For instance, ``withdrawId`` is not being used [here](https://github.com/code-423n4/2023-09-asymmetry/blob/main/contracts/strategies/votium/VotiumStrategy.sol#L56):
