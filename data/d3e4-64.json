@@ -1,0 +1,8 @@
+{
+  "contest": 286,
+  "handle": "d3e4",
+  "risk": "2",
+  "title": "`VotiumStrategy.price()` does not validate Chainlink response",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2023-09-asymmetry-findings/issues/64"
+}
