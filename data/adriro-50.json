@@ -1,0 +1,8 @@
+{
+  "contest": 286,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "Forced relock in VotiumStrategy withdrawal causes denial of service if Convex locking contract is shutdown",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2023-09-asymmetry-findings/issues/50"
+}
