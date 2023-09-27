@@ -1,0 +1,8 @@
+{
+  "contest": 286,
+  "handle": "MiloTruck",
+  "risk": "2",
+  "title": "Weird ERC20 tokens that are used as rewards from Votium will get stuck in the `VotiumStrategy` contract",
+  "issueId": 47,
+  "issueUrl": "https://github.com/code-423n4/2023-09-asymmetry-findings/issues/47"
+}
