@@ -1,0 +1,8 @@
+{
+  "contest": 286,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "Uninitialized protocol fee address could cause loss of funds",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2023-09-asymmetry-findings/issues/46"
+}
