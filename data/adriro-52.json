@@ -1,0 +1,8 @@
+{
+  "contest": 286,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "`cvxPerVotium()` calculation will return zero if all CVX tokens are pending withdrawal as obligations",
+  "issueId": 52,
+  "issueUrl": "https://github.com/code-423n4/2023-09-asymmetry-findings/issues/52"
+}
