@@ -1,7 +1,7 @@
 ---
 sponsor: "Asymmetry Finance"
 slug: "2023-09-asymmetry"
-date: "2023-10-⭕"  # the date this report is published to the C4 website
+date: "2024-02-06"
 title: "Asymmetry Finance afETH Invitational"
 findings: "https://github.com/code-423n4/2023-09-asymmetry-findings/issues"
 contest: 286
